@@ -3,6 +3,7 @@ class Account{
     double balance;
     String acctype;
     public Account(int n,double m,String l){
+        
         this.accnum=n;
         this.balance=m;
         this.acctype=l;
